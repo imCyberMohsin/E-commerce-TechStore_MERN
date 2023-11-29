@@ -301,8 +301,8 @@ function Home() {
                                         <img src="images/d2.jpg" alt />
                                     </div>
                                     <div className="col-xs-8 img-deal1">
-                                        <h3>Lay's Potato Chips</h3>
-                                        <a href>&#8377;18.00</a>
+                                        <h3>Headphone</h3>
+                                        <a href>&#8377; 1800.00</a>
                                     </div>
                                     <div className="clearfix" />
                                 </div>
@@ -311,8 +311,8 @@ function Home() {
                                         <img src="images/d1.jpg" alt />
                                     </div>
                                     <div className="col-xs-8 img-deal1">
-                                        <h3>Bingo Mad Angles</h3>
-                                        <a href>&#8377;9.00</a>
+                                        <h3>PS5 Controller</h3>
+                                        <a href>&#8377; 4000.00</a>
                                     </div>
                                     <div className="clearfix" />
                                 </div>
@@ -321,8 +321,8 @@ function Home() {
                                         <img src="images/d4.jpg" alt />
                                     </div>
                                     <div className="col-xs-8 img-deal1">
-                                        <h3>Tata Salt</h3>
-                                        <a href>&#8377;15.00</a>
+                                        <h3>Sony Camera</h3>
+                                        <a href>&#8377; 150000.00</a>
                                     </div>
                                     <div className="clearfix" />
                                 </div>
@@ -331,8 +331,8 @@ function Home() {
                                         <img src="images/d5.jpg" alt />
                                     </div>
                                     <div className="col-xs-8 img-deal1">
-                                        <h3>Gujarat Dry Fruit</h3>
-                                        <a href>&#8377;525.00</a>
+                                        <h3>Macbook Air</h3>
+                                        <a href>&#8377; 120000.00</a>
                                     </div>
                                     <div className="clearfix" />
                                 </div>
@@ -341,8 +341,8 @@ function Home() {
                                         <img src="images/d3.jpg" alt />
                                     </div>
                                     <div className="col-xs-8 img-deal1">
-                                        <h3>Cadbury Dairy Milk</h3>
-                                        <a href>&#8377;149.00</a>
+                                        <h3>Iphone 12</h3>
+                                        <a href>&#8377; 149000.00</a>
                                     </div>
                                     <div className="clearfix" />
                                 </div>
