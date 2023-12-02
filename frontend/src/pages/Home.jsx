@@ -90,6 +90,7 @@ function Home() {
                 {/* //navigation */}
                 {/* banner-2 */}
                 <div className="page-head_agile_info_w3l">
+                    <img src="https://images.template.net/56530/Electronics-Shop-Etsy-Banner-Template.jpeg" alt="img" width="100%" />
                 </div>
                 {/* //banner-2 */}
                 {/* page */}
@@ -428,11 +429,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single.html">Aashirvaad, 5g</a>
+                                                <a href="single.html">Mechanical Keyboard</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;220.00</h6>
-                                                <p>Save &#8377;40.00</p>
+                                                <h6>&#8377;2000.00</h6>
+                                                <p>Save &#8377;400.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
@@ -462,11 +463,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single.html">Kissan Tomato Ketchup, 950g</a>
+                                                <a href="single.html">Xbox 360 Controller</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;99.00</h6>
-                                                <p>Save &#8377;20.00</p>
+                                                <h6>&#8377;70000.00</h6>
+                                                <p>Save &#8377;1000.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
@@ -496,11 +497,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single.html">Madhur Pure Sugar, 1g</a>
+                                                <a href="single.html">Iphone 15 Pro</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;69.00</h6>
-                                                <p>Save &#8377;20.00</p>
+                                                <h6>&#8377;150000.00</h6>
+                                                <p>Save &#8377;5000.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
@@ -530,11 +531,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single2.html">Surf Excel Liquid, 1.02L</a>
+                                                <a href="single2.html">Mechanical Keyboard White</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;187.00</h6>
-                                                <p>Save &#8377;30.00</p>
+                                                <h6>&#8377;2600.00</h6>
+                                                <p>Save &#8377;300.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
@@ -564,11 +565,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single.html">Cadbury Choclairs, 655.5g</a>
+                                                <a href="single.html">Headphone White</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;160.00</h6>
-                                                <p>Save &#8377;60.00</p>
+                                                <h6>&#8377;9000.00</h6>
+                                                <p>Save &#8377;1000.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
@@ -598,11 +599,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single2.html">Fair &amp; Lovely, 80 g</a>
+                                                <a href="single2.html">Headphone Black</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;121.60</h6>
-                                                <p>Save &#8377;30.00</p>
+                                                <h6>&#8377;7000.60</h6>
+                                                <p>Save &#8377;3000.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
@@ -623,7 +624,7 @@ function Home() {
                                         </div>
                                     </div>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <div className="w3l-specilamk">
                                         <div className="speioffer-agile">
                                             <a href="single.html">
@@ -656,7 +657,7 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                </li>
+                                </li> */}
                                 <li>
                                     <div className="w3l-specilamk">
                                         <div className="speioffer-agile">
@@ -666,11 +667,11 @@ function Home() {
                                         </div>
                                         <div className="product-name-w3l">
                                             <h4>
-                                                <a href="single2.html">Lakme Eyeconic Kajal, 0.35 g</a>
+                                                <a href="single2.html">Xbox Controller Black</a>
                                             </h4>
                                             <div className="w3l-pricehkj">
-                                                <h6>&#8377;153.00</h6>
-                                                <p>Save &#8377;40.00</p>
+                                                <h6>&#8377;7000.00</h6>
+                                                <p>Save &#8377;940.00</p>
                                             </div>
                                             <div className="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
                                                 <form action="#" method="post">
