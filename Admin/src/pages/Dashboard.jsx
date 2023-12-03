@@ -20,7 +20,9 @@ function Dashboard() {
                             {/* Begin Page Content */}
                             <div className="container-fluid">
                                 {/* Page Heading */}
-                                <h1 className="h3 mb-4 text-gray-800">Dashboard</h1>
+                                <h1 className="h1 mb-4 text-gray-800">Admin Panel : Tech Store</h1>
+                                <h1 className="h3 mb-4 text-gray-800">List Products Added To The Store</h1>
+                                <h1 className="h3 mb-4 text-gray-800">Add Products To The Store</h1>
                             </div>
                             {/* /.container-fluid */}
                         </div>
@@ -37,7 +39,7 @@ function Dashboard() {
                     <i className="fas fa-angle-up" />
                 </a>
                 {/* Logout Modal*/}
-                
+
             </div>
         </>
     )
